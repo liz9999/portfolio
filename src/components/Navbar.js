@@ -16,7 +16,7 @@ const Navbar = ({ aboutRef, contactRef, projectsRef }) => {
           <a className="basic" onClick={() => {handleScroll(aboutRef.current)}}>About</a>
           <a className="basic" onClick={() => {handleScroll(projectsRef.current)}}>Projects</a>
           <a className="basic" onClick={() => {handleScroll(contactRef.current)}}>Contact</a>
-          <a className="resume" href="assets/230721_Resume.pdf">Resume</a>
+          <a className="resume" href="assets/230721 Resume.pdf">Resume</a>
         </div>
     </div>
   )
