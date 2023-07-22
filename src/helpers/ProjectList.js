@@ -20,8 +20,8 @@ export const ProjectList = [{
     title: "Portfolio",
     info: "This visually appealing and minimalistic portfolio was created and designed by myself. ",
     stack: ["React", "HTML", "CSS"],
-    source: "https://github.com/liz9999/send-money",
-    preview: "https://liz9999.github.io/send-money/"
+    source: "https://github.com/liz9999/portfolio",
+    preview: "https://liz9999.github.io/portfolio/"
 },
 {
     img: 'assets/wvdl.png',
